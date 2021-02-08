@@ -5,6 +5,7 @@
 #👉Get Lịch Phát Sóng
 #EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 #👉 Chú Ý Nhẹ :))
 #EXTINF:-1 group-title="404 🅴🆁🆁🅾🆁 !" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",𝐔𝐩𝐝𝐚𝐭𝐞 18:40 8/2/2021
 lmao.pro
