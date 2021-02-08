@@ -84,7 +84,23 @@ LMAO.PRO
 http://thatslife.cf/stream/channelid/1094392938?ticket=24859803F2FEC52D5C0CAFD798BDF72696A432C9&profile=pass
 #EXTINF:0 tvg-id="kplus1hd"  group-title="🅺🅿🅻🆄🆂" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 SV2
 http://gg.gg/cocak1
-#EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PM HD
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV6
+http://hthanhmedia:korestream@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
+
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV7
+#EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
+#http://hthanhmedia:korestream@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
+
+#EXTINF:-1 tvg-id="k1hd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" tvg-id="27d3b47884025bf966deb05189fd5f20",K+1 HD SV3
+#http://thatslife.cf/stream/channelid/1094392938?ticket=24859803F2FEC52D5C0CAFD798BDF72696A432C9&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV8
+#http://thatslife.cf/stream/channelid/382968381?ticket=22A153ED081327A02C15F28BF5DD0286E569A465&profile=pass
+
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PM HD SV9
+#http://thatslife.cf/stream/channelid/1855455116?ticket=09E09FA8EB3B2C0D91990426A8F4ADA8E7E421A6&profile=pass
+#EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PM HD SV10
 http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
 #EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV2
 http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
