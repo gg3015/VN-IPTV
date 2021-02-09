@@ -80,19 +80,17 @@ http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 LMAO.PRO
 #EXTINF:-1 group-title="🅺🅿🅻🆄🆂" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",XEM CÓ THỂ DIE KÊNH + LAG + CHUYỂN KÊNH KHÁC
 LMAO.PRO
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
-http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV2
-#EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
-http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
+http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
+#EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
+http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
 #EXTINF:-1 tvg-id="k1hd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" tvg-id="27d3b47884025bf966deb05189fd5f20",K+1 HD
-http://thatslife.cf/stream/channelid/1094392938?ticket=24859803F2FEC52D5C0CAFD798BDF72696A432C9&profile=pass
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV3
-http://thatslife.cf/stream/channelid/382968381?ticket=22A153ED081327A02C15F28BF5DD0286E569A465&profile=pass
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PM HD - TNVan
-http://thatslife.cf/stream/channelid/382968381?ticket=22A153ED081327A02C15F28BF5DD0286E569A465&profile=pass
+http://thatslife.cf/stream/channelid/1094392938?ticket=24859803F2FEC52D5C0CAFD798BDF72696A432C9&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD SV2
+http://thatslife.cf/stream/channelid/382968381?ticket=22A153ED081327A02C15F28BF5DD0286E569A465&profile=pass
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png",K+PM HD - TNVan
+http://thatslife.cf/stream/channelid/382968381?ticket=22A153ED081327A02C15F28BF5DD0286E569A465&profile=pass
 #👉VTV CAB
-
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="🆅🆃🆅🅲🅰🅱" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457",VTVCab1| Vie Giải Trí
 http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
 #EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="🆅🆃🆅🅲🅰🅱" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t-326x245.png",VTVcab2| Phim Việt
@@ -221,8 +219,10 @@ https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #👉QUỐC TẾ 
 #EXTINF:0 tvg-id="hbo"group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.ibb.co/PMLnXJR/hbo-BEARTV.png",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648 
-#EXTINF:-1 tvg-id="fxhd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
-http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
+#EXTINF:-1 tvg-id="fxhd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
+
+http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
+
 #EXTINF:-1 tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" group-title="🆀🆄🅾🅲 🆃🅴",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dullmensclub.com/new/wp-content/uploads/2014/11/Deutsche-Welle.png" group-title="🆀🆄🅾🅲 🆃🅴",DW News
