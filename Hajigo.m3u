@@ -42,25 +42,7 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
-#👉 VTV VIP
-#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
-https://7hb84o28a.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
-https://7hb84o28a.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
-https://7hb84o28a.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
-https://7hb84o28a.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
-https://7hb84o28a.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png", VTV6
-https://7hb84o28a.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png", VTV7
-https://7hb84o28a.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png", VTV8
-https://7hb84o28a.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅 🅵🅷🅳 🆅🅸🅿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png", VTV9
-https://7hb84o28a.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
+
 #👉 KÊNH THỜI SỰ 
 #EXTINF:0 tvg-id="antvhd"group-title="🅽🅴🆆🆂" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjU0MzYsICJyZXNvdXJjZV9pZCI6ICJhbm5pbmh0dl8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjFhNTI1YjI0NzFhYTRhMzJkOTUyYjk2MTIzYmE3ZTA1IiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0ODUxODM2LCAicm1pcCI6ICIyNy43OS4xNjcuNCJ9
@@ -80,7 +62,7 @@ http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 LMAO.PRO
 #EXTINF:-1 group-title="🅺🅿🅻🆄🆂" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",XEM CÓ THỂ DIE KÊNH + LAG + CHUYỂN KÊNH KHÁC
 LMAO.PRO
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄??" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
 http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
 #EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
 http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
@@ -284,7 +266,7 @@ http://14.186.66.114:8889/rtp/232.84.3.200:11122
 #EXTINF:-1 tvg-name="HBO" group-title="🆀🆄🅾🅲 🆃🅴",HBO SV2 <Mạng FPT>
 udp://@225.1.2.233:30120
 
-#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY HD
+#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="??🆄🅾🅲 🆃🅴" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY HD
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fox_movies" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.ibb.co/NsJB6Gv/foxmovies-BEARTV.png",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -534,12 +516,9 @@ EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/WLgD1v7.p
 https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="🅽🅷🅰🆃 🇯🇵",Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="NHẬT BẢN" tvg-logo="" tvg-country="JP" tvg-url="" group-title="🅽🅷🅰🆃 🇯🇵",Animax Asia (360p)
-https://tvonlineindonesia.xyz:443/m3u8/usee-animax-People+62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="NHẬT BẢN" tvg-logo="" tvg-country="JP" tvg-url="" group-title="🅽🅷🅰🆃 🇯🇵",Animax Japan (720p)
 https://cdn.jpth10.jpnettv.live/jptv/janimax_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="NHẬT BẢN" tvg-logo="" tvg-country="JP" tvg-url="" group-title="🅽🅷🅰🆃 🇯🇵",AniPlus (360p)
-https://tvonlineindonesia.xyz:443/m3u8/usee-aniplus-People+62.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" tvg-country="JP" tvg-url="" group-title="🅽🅷🅰🆃 🇯🇵",BS Asahi
 http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" tvg-country="JP" tvg-url="" group-title="🅽🅷🅰🆃 🇯🇵",BS Fuji (BS181)
@@ -581,99 +560,135 @@ http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
 http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 
 #👉SPORT
-#EXTINF:-1 tvg-ID="kpluspmhd" group-title="🆂🅿🅾🆁🆃 ⚽"tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png", Live 1
+#EXTINF:-1 tvg-ID="kpluspmhd" group-title="🆂🅿🅾🆁🆃⚽"tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png", Live 1
 http://hthanhmedias.duckdns.org:9981/stream/channelid/1122696227
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="🆂🅿🅾🆁🆃 ⚽", Live 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="🆂🅿🅾🆁🆃⚽", Live 2
 http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="🆂🅿🅾🆁🆃 ⚽", Live 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="🆂🅿🅾🆁🆃⚽", Live 3
 http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃 ⚽", Skynet Sport HD
+#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃⚽", Skynet Sport HD
 #http://hthanhmedia:tinhlamgidocu@hthanhmedias.duckdns.org:9981/stream/channelid/1047532136
-#EXTINF: 0 tvg-id="" group-title="🆂🅿🅾🆁🆃 ⚽"tvg-logo="https://i.ibb.co/ngb5z21/DMS2-BEARTV.png",DIEMA SPORT 2 HD 
+#EXTINF: 0 tvg-id="" group-title="🆂🅿🅾🆁🆃⚽"tvg-logo="https://i.ibb.co/ngb5z21/DMS2-BEARTV.png",DIEMA SPORT 2 HD 
 http://136.243.177.164/DIEMASPORT2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",QAZSPORT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",QAZSPORT HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 1
-
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 1
 #EXTVLCOPT:http-user-agent="ipad"
-
 https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 2
-
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 2
 #EXTVLCOPT:http-user-agent="ipad"
-
 https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="c5fa1523-328e-4a14-8674-db798dee6b72" tvg-name="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/znvpgnuk_manchester-united-west-ham-united.jpg" group-title="🆂🅿🅾🆁🆃 ⚽",VIEON FACUP 1
+#EXTINF:-1 tvg-id="c5fa1523-328e-4a14-8674-db798dee6b72" tvg-name="🆂🅴🆁🆅🅸🅲🅴 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/znvpgnuk_manchester-united-west-ham-united.jpg" group-title="🆂🅿🅾🆁🆃⚽",VIEON FACUP 1
 http://113.187.235.86:8888/HThanhVieon/get_vieon.php?id=c5fa1523-328e-4a14-8674-db798dee6b72
-
-#EXTINF:-1 tvg-id="71547091-1c21-4da0-9f0c-ea85e976a674" tvg-name="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/3mwdvpjt_burnley-bournemouth.jpg" group-title="🆂🅿🅾🆁🆃 ⚽",VIEON FACUP 2
+#EXTINF:-1 tvg-id="71547091-1c21-4da0-9f0c-ea85e976a674" tvg-name="🆂🅴🆁🆅🅸🅲🅴 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/3mwdvpjt_burnley-bournemouth.jpg" group-title="🆂🅿🅾🆁🆃⚽",VIEON FACUP 2
 http://113.187.235.86:8888/HThanhVieon/get_vieon.php?id=71547091-1c21-4da0-9f0c-ea85e976a674
 
-#EXTINF:-1 tvg-id="f8243f1d-f46e-4a11-aa21-a210925df4c9" tvg-name="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/tcx76bzp_leicester-city-brighton-hove-albion.jpg" group-title="🆂🅿🅾🆁🆃 ⚽",VIEON FACUP 3
+#EXTINF:-1 tvg-id="f8243f1d-f46e-4a11-aa21-a210925df4c9" tvg-name="🆂🅴🆁🆅🅸🅲🅴 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/tcx76bzp_leicester-city-brighton-hove-albion.jpg" group-title="🆂🅿🅾🆁🆃⚽",VIEON FACUP 3
 http://113.187.235.86:8888/HThanhVieon/get_vieon.php?id=f8243f1d-f46e-4a11-aa21-a210925df4c9
-#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃 ⚽", Skynet Sport HD
-
+#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃⚽", Skynet Sport HD
 http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1047532136
 
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽"tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃⚽"tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽"tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier Football 2
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃⚽"tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier Football 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",BT SPORT 1
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",BT SPORT 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",BT SPORT 2
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",BT SPORT 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",SETANTA SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",SETANTA SPORTS 1
 http://92.43.140.200/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",SETANTA SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",SETANTA SPORTS 2
 http://92.43.140.200/s82/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJDPR9h/ASTRO1-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",Astro SuperSport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJDPR9h/ASTRO1-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",Astro SuperSport
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2knS93C/ASTRO3-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽",Astro SuperSport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2knS93C/ASTRO3-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽",Astro SuperSport 3
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽", Sky Sports Premier League
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽", Sky Sports Premier League
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽", Sky Sports F1
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽", Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽", Sky Sports Football
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽", Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 1
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.sportsbase.io/images/logos/c_402_aGv1g9bi.png",FA CUP 2
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 01
+#EXTVLCOPT:http-user-agent="ipad"
+#https://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 02
+#EXTVLCOPT:http-user-agent="ipad"
+#https://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 03
+#EXTVLCOPT:http-user-agent="ipad"
+#https://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 04
+#EXTVLCOPT:http-user-agent="ipad"
+#https://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 05
+#EXTVLCOPT:http-user-agent="ipad"
+#https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 06
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 07
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 08
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 09
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://www.pesmaster.com/pes-2021/graphics/leaguelogos/emb_0010.png",SERIE A 10
+#EXTVLCOPT:http-user-agent="ipad"
+https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VQfwDL9/UFC-BEARTV.png" group-title="🆂🅿🅾🆁🆃 ⚽", UFC FIGHT
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VQfwDL9/UFC-BEARTV.png" group-title="🆂🅿🅾🆁🆃⚽", UFC FIGHT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 
 #👉FPT SERVICE
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",Dolife Hospital <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",Dolife Hospital <Mạng FPT>
 udp://@225.1.1.127:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",The Mira Hotel <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",The Mira Hotel <Mạng FPT>
 udp://@225.1.1.123:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",The Ocean Resort <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",The Ocean Resort <Mạng FPT>
 udp://@225.1.1.121:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Giới Thiệu Chương Trình <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Giới Thiệu Chương Trình <Mạng FPT>
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Giới Thiệu Dịch Vụ <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Giới Thiệu Dịch Vụ <Mạng FPT>
 udp://@225.1.1.137:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Mở Két <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Mở Két <Mạng FPT>
 udp://@225.1.1.26:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Mở Két <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Mở Két <Mạng FPT>
 udp://@225.1.1.97:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Thể Thao <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Thể Thao <Mạng FPT>
 udp://@225.1.2.252:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Feed <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Feed <Mạng FPT>
 udp://@225.1.1.11:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Feed <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Feed <Mạng FPT>
 udp://@225.1.2.100:30120
-#EXTINF:-1 group-title="🅵🅿🆃 🆂🅿🅾🆁🆃",FPT Feed <Mạng FPT>
+#EXTINF:-1 group-title="🅵🅿🆃 🆂🅴🆁🆅🅸🅲🅴",FPT Feed <Mạng FPT>
 udp://@225.1.2.102:30120
 #👉RADIO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxpCTQfs/vov1.png" group-title="🅳🅰🅸 🅿🅷🅰🆃 🆃🅷🅰🅽🅷",VOV1
