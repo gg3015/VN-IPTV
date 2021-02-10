@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 #👉 Chú Ý Nhẹ :))
-#EXTINF:-1 group-title="404 🅴🆁🆁🅾🆁 !" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",𝐔𝐩𝐝𝐚𝐭𝐞 18:40 8/2/2021
+#EXTINF:-1 group-title="404 🅴🆁🆁🅾🆁 !" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",𝐔𝐩𝐝𝐚𝐭𝐞 8:46 10/2/2021 !
 lmao.pro
 #EXTINF:-1 group-title="404 🅴🆁🆁🅾🆁 !" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",𝐇𝐚𝐩𝐩𝐲 𝐍𝐞𝐰 𝐘𝐞𝐚𝐫 2021 !
 lmao.pro
@@ -19,145 +19,6 @@ lmao.pro
 lmao.pro
 #EXTINF:-1 group-title="404 🅴🆁🆁🅾🆁 !" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",𝐂𝐡𝐮𝐜 𝐂𝐚𝐜 𝐁𝐚𝐧 𝐗𝐞𝐦 𝐕𝐮𝐢 𝐕𝐞 !!!
 lmao.pro
-#👉SPORT LIVE 
-EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",09/02 22:00 PaÃ§os de Ferreira vs Portimonense Primeira Liga
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 00:00 Rio Ave vs Tondela Primeira Liga
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 00:30 Burnley vs AFC Bournemouth FA Cup
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 00:30 Burnley vs AFC Bournemouth FA Cup
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 00:30 Burnley vs AFC Bournemouth FA Cup
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 02:30 Manchester United vs West Ham United FA Cup
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 02:30 Manchester United vs West Ham United FA Cup
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 02:45 Juventus vs Internazionale Coppa Italia
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 02:45 Juventus vs Internazionale Coppa Italia
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 03:00 Olympique Lyonnais vs Ajaccio Coupe de France
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 04:00 Gil Vicente vs Sporting CP Primeira Liga
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 15:05 Newcastle Jets vs Western United A-League
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",10/02 20:45 Auxerre vs Olympique Marseille Coupe de France
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 00:30 Swansea City vs Manchester City FA Cup
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 00:30 Swansea City vs Manchester City FA Cup
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 00:30 Swansea City vs Manchester City FA Cup
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 02:30 Sheffield United vs Bristol City FA Cup
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 02:30 Leicester City vs Brighton & Hove Albion FA Cup
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 02:30 Leicester City vs Brighton & Hove Albion FA Cup
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 02:30 Leicester City vs Brighton & Hove Albion FA Cup
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 02:45 Atalanta vs Napoli Coppa Italia
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 03:15 Everton vs Tottenham Hotspur FA Cup
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 03:15 Everton vs Tottenham Hotspur FA Cup
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",11/02 03:15 Everton vs Tottenham Hotspur FA Cup
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",12/02 00:30 Wolverhampton Wanderers vs Southampton FA Cup
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",12/02 00:30 Wolverhampton Wanderers vs Southampton FA Cup
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",12/02 00:30 Wolverhampton Wanderers vs Southampton FA Cup
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",12/02 15:05 Macarthur vs Adelaide United A-League
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 02:30 RB Leipzig vs Augsburg Bundesliga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 02:30 RB Leipzig vs Augsburg Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 02:45 Bologna vs Benevento Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 17:20 Perth Glory vs Melbourne Victory A-League
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 19:00 Hamburger SV vs Greuther FÃ¼rth Bundesliga 2
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 19:30 Leicester City vs Liverpool Premier League
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 19:30 Leicester City vs Liverpool Premier League
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 21:30 Borussia Dortmund vs Hoffenheim Bundesliga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 21:30 Borussia Dortmund vs Hoffenheim Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",13/02 22:00 Crystal Palace vs Burnley Premier League
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 00:30 Union Berlin vs Schalke 04 Bundesliga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 00:30 Union Berlin vs Schalke 04 Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 00:30 Manchester City vs Tottenham Hotspur Premier League
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 00:45 ADO Den Haag vs PSV Eredivisie
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 00:45 ADO Den Haag vs PSV Eredivisie
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 02:45 Spezia vs Milan Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 03:00 Brighton & Hove Albion vs Aston Villa Premier League
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 03:00 Heracles vs Ajax Eredivisie
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 03:30 Porto vs Boavista Primeira Liga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 18:30 Roma vs Udinese Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 19:00 Southampton vs Wolverhampton Wanderers Premier League
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 20:30 Feyenoord vs Willem II Eredivisie
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 21:00 West Bromwich Albion vs Manchester United Premier League
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 21:00 Sampdoria vs Fiorentina Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 21:00 Cagliari vs Atalanta Serie A
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 21:30 Eintracht Frankfurt vs KÃ¶ln Bundesliga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 21:30 Eintracht Frankfurt vs KÃ¶ln Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",14/02 23:30 Arsenal vs Leeds United Premier League
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 00:00 Wolfsburg vs Borussia M'gladbach Bundesliga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 00:00 Crotone vs Sassuolo Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 00:00 Wolfsburg vs Borussia M'gladbach Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 02:00 Everton vs Fulham Premier League
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 02:45 Internazionale vs Lazio Serie A
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",15/02 03:15 Moreirense vs Benfica Primeira Liga
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",17/02 03:00 RB Leipzig vs Liverpool UEFA Champions League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",18/02 03:00 Porto vs Juventus UEFA Champions League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",19/02 00:55 Wolfsberger AC vs Tottenham Hotspur UEFA Europa League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",19/02 03:00 Benfica vs Arsenal UEFA Europa League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",20/02 02:30 Arminia Bielefeld vs Wolfsburg Bundesliga
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",20/02 13:05 Western United vs Macarthur A-League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/34/91/0c/34910c083694f584ac920ff885965651.jpg" group-title="TRỰC TIẾP BÓNG ĐÁ THANH51",20/02 15:10 Sydney FC vs Brisbane Roar A-League
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #👉VTV
 #EXTINF:0 tvg-id="vtv1hd"group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -219,7 +80,7 @@ http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 LMAO.PRO
 #EXTINF:-1 group-title="🅺🅿🅻🆄🆂" tvg-logo="https://coloa.donganh.hanoi.gov.vn/documents/2388564/2804305/5K.jpg/fb9c5b61-e002-4f3a-8c37-3fa809d5c18e?t=1604572767076",XEM CÓ THỂ DIE KÊNH + LAG + CHUYỂN KÊNH KHÁC
 LMAO.PRO
-#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
+#EXTINF:-1 tvg-id="kpmhd" group-title="🅺🅿🅻🆄??" tvg-logo="https://i.postimg.cc/pX6Jzrgf/KPM-vt.png",K+PM HD 
 http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1122696227?ticket=EC5A197584646C1D744C6886C949A3A1AF4F8E4C&profile=pass
 #EXTINF:-1 tvg-id="kpchd" group-title="🅺🅿🅻🆄🆂" tvg-logo="https://i.postimg.cc/qBLsc7GP/k_pchd.png" tvg-id="2cd45fe5f030085c5768da05ab997597",K+PC HD
 http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1513339573?ticket=2B0927EDAF7BA87F4B3CEA7FAA1B11A2878D2BD6&profile=pass
@@ -753,8 +614,10 @@ http://113.187.235.86:8888/HThanhVieon/get_vieon.php?id=71547091-1c21-4da0-9f0c-
 
 #EXTINF:-1 tvg-id="f8243f1d-f46e-4a11-aa21-a210925df4c9" tvg-name="🆂🅿🅾🆁🆃 ⚽" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/02/08/tcx76bzp_leicester-city-brighton-hove-albion.jpg" group-title="🆂🅿🅾🆁🆃 ⚽",VIEON FACUP 3
 http://113.187.235.86:8888/HThanhVieon/get_vieon.php?id=f8243f1d-f46e-4a11-aa21-a210925df4c9
-#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃 ⚽", Skynet Sport HD
-http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1047532136
+#EXTINF:-1  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="🆂🅿🅾🆁🆃 ⚽", Skynet Sport HD
+
+http://hthanhmedia:copykoxinlaxau@hthanhmedias.duckdns.org:9981/stream/channelid/1047532136
+
 
 
 
